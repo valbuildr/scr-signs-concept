@@ -21,7 +21,6 @@
 | <img src="src/connect-icon.png" alt="Icon" width="50"/> | PBN | Port Benton | [`src/stations/PBN`](./src/stations/PBN) |
 | <img src="src/connect-icon.png" alt="Icon" width="50"/> | BNB | Benton Bridge | [`src/stations/BNB`](./src/stations/BNB) |
 | <img src="src/connect-icon.png" alt="Icon" width="50"/> | HHG | Hampton Hargate | [`src/stations/HHG`](./src/stations/HHG) |
-| <img src="src/connect-icon.png" alt="Icon" width="50"/> | HHG | Hampton Hargate | [`src/stations/HHG`](./src/stations/HHG) |
 | <img src="src/connect-icon.png" alt="Icon" width="50"/> | USL | Upper Staploe | [`src/stations/USL`](./src/stations/USL) |
 | <img src="src/connect-icon.png" alt="Icon" width="50"/> | WTN | Water Newton | [`src/stations/WTN`](./src/stations/WTN) |
 | <img src="src/connect-icon.png" alt="Icon" width="50"/> | RCP | Rocket Parade | [`src/stations/RCP`](./src/stations/RCP) |
